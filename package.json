@@ -1,0 +1,20 @@
+{
+  "name": "threejs-shader-hackathon",
+  "version": "1.0.0",
+  "description": "A Three.js project for experimenting with shaders.",
+  "main": "main.js",
+  "scripts": {
+    "start": "parcel index.html --open"
+  },
+  "dependencies": {
+    "parcel": "^2.0.0",
+    "three": "^0.142.0"
+  },
+  "keywords": [
+    "three.js",
+    "shaders",
+    "graphics"
+  ],
+  "author": "",
+  "license": "ISC"
+}
